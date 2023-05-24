@@ -90,3 +90,5 @@ suma_aux = reduce(lambda x, y: x + y, numeros)
 print(suma_aux)
 sum(suma_aux)
 
+
+#test de clase5
